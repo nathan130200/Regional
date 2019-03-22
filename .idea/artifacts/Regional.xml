@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Regional">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="Regional.jar">
+      <element id="module-output" name="Regional" />
+    </root>
+  </artifact>
+</component>

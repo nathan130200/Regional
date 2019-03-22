@@ -1,0 +1,4 @@
+name: Regional
+description: 'Bloqueia acesso ao servidor de regiões não autorizadas'
+version: 1.0
+main: me.nfdsr.regional.Regional
